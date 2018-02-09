@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<data>
-  <!--tank studentName="ControlledTank" tankType="1" tankPath="Images\TankSmall.png" manPath="Images\TankSmallMan.png" x="450" y="100" health="100" bullets="100" rockets="100" mines="5" turnRate="5" fuel="60" mass="1" maxspeed="75" leftCannon="1" rightCannon="1"/-->
-  <tank studentName="DumbTank" tankType="1" tankPath="Images\TankSmall.png" manPath="Images\TankSmallMan.png" x="450" y="500" health="100" bullets="100" rockets="100" mines="5" turnRate="5" fuel="60" mass="1" maxspeed="75" leftCannon="1" rightCannon="1"/>
-  <tank studentName="DumbTank" tankType="2" tankPath="Images\TankMedium.png" manPath="Images\TankMediumMan.png" x="850" y="300" health="150" bullets="100" rockets="100" mines="5" turnRate="5" fuel="60" mass="1" maxspeed="75" leftCannon="1" rightCannon="1"/>
-  <tank studentName="G012188eTank" tankType="2" tankPath="Images\G012188eTankMedium.png" manPath="Images\G012188eTankMediumMan.png" x="80" y="48" health="225" bullets="100" rockets="25" mines="10" turnRate="5" fuel="95" mass="1" maxspeed="75" leftCannon="0" rightCannon="0"/>
-
-
-</data>
